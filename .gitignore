@@ -1,0 +1,25 @@
+### /Users/tom/.gitignore-boilerplates/Java.gitignore
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+
+### /Users/tom/.gitignore-boilerplates/Global/Intellij.gitignore
+
+*.iml
+*.ipr
+*.iws
+.idea/*
+!.idea/codeStyleSettings.xml
+!.idea/encodings.xml
+
+
+### /Users/tom/.gitignore-boilerplates/Maven.gitignore
+
+target/
+
+
